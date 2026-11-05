@@ -1,0 +1,16 @@
+{% extends "main.html" %}
+
+{% block hero %}
+<section class="mars-hero">
+  <span class="ai-tag">AI-created</span>
+  <div class="md-grid mars-hero__inner">
+    <p class="mars-hero__title">Physics</p>
+    <p class="mars-hero__lead">The physics of getting to Mars and living there: why things fall, how orbits and rockets work, and how to land on a world with thin air. Every idea explained, worked examples, and practice with answers.</p>
+    <p class="mars-hero__go">
+      <a class="mars-cta" href="{{ 'start.html' | url }}">Start here</a>
+      <a class="mars-pill" href="{{ 'topics/index.html' | url }}">Topics</a>
+      <a class="mars-pill" href="{{ 'sims.html' | url }}">Simulators</a>
+    </p>
+  </div>
+</section>
+{% endblock %}

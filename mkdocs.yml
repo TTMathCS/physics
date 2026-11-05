@@ -1,0 +1,244 @@
+site_name: Physics
+site_url: https://physics.akadian.ca/
+site_description: Physics for getting to Mars and living there, from a first push to the rocket equation, with the reasoning written out
+repo_url: https://github.com/TTMathCS/physics
+edit_uri: edit/main/docs/
+copyright: 'Part of <a href="https://www.akadian.ca/">Mars – your new home</a>'
+# notes for the repo, not pages
+exclude_docs: |
+  README.md
+use_directory_urls: false
+
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/akadian-icon.png   # the Akadian A, as on akadian.ca
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunset-up
+        name: Mars dawn
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Mars night
+  font: false
+
+extra_css:
+  - fonts/fonts.css
+  - stylesheets/mars.css
+  - stylesheets/topics.css
+  - stylesheets/reader.css
+  - stylesheets/sims.css
+  - katex/katex.min.css
+
+extra:
+  homepage: https://www.akadian.ca/
+
+extra_javascript:
+  - javascripts/mars-link.js
+  - javascripts/home-link.js
+  - katex/katex.min.js
+  - katex/auto-render.min.js
+  - javascripts/math.js
+  - javascripts/levels.js
+  - javascripts/reader.js
+  - javascripts/levelcheck.js
+  - javascripts/sims.js
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      title: On this page
+  - tables
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+# With --strict, a broken link or #anchor stops the build
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+# The menu is written by tools/nav.py from the topic folders (python3 tools/nav.py); do not edit between the marks.
+nav:
+  - Home: index.md
+  - Start:
+      - start.md
+      - level-check.md
+  # topics: start
+  - Topics:
+      - topics/index.md
+      - "Gravity and orbits":
+          - topics/gravity/index.md
+          - "Level 1: Up and down":
+              - topics/gravity/level-1/index.md
+              - topics/gravity/level-1/01-things-fall-down.md
+              - topics/gravity/level-1/02-heavy-and-light.md
+              - topics/gravity/level-1/03-throwing-and-catching.md
+              - topics/gravity/level-1/04-round-planets.md
+              - topics/gravity/level-1/05-jumping-on-mars.md
+              - topics/gravity/level-1/06-the-moon-goes-round.md
+          - "Level 2: Weight and pull":
+              - topics/gravity/level-2/index.md
+              - topics/gravity/level-2/01-what-weight-is.md
+              - topics/gravity/level-2/02-mass-and-weight.md
+              - topics/gravity/level-2/03-weight-on-other-worlds.md
+              - topics/gravity/level-2/04-balancing-point.md
+              - topics/gravity/level-2/05-newtons-cannon.md
+              - topics/gravity/level-2/06-days-years-seasons.md
+          - "Level 3: Falling, measured":
+              - topics/gravity/level-3/index.md
+              - topics/gravity/level-3/01-timing-a-fall.md
+              - topics/gravity/level-3/02-air-gets-in-the-way.md
+              - topics/gravity/level-3/03-parachutes.md
+              - topics/gravity/level-3/04-the-shape-of-a-throw.md
+              - topics/gravity/level-3/05-a-world-at-0-38-g.md
+              - topics/gravity/level-3/06-tides.md
+          - "Level 4: Gravity everywhere":
+              - topics/gravity/level-4/index.md
+              - topics/gravity/level-4/01-the-apple-and-the-moon.md
+              - topics/gravity/level-4/02-weaker-with-distance.md
+              - topics/gravity/level-4/03-slower-farther-out.md
+              - topics/gravity/level-4/04-weightless-in-orbit.md
+              - topics/gravity/level-4/05-phobos-and-deimos.md
+              - topics/gravity/level-4/06-escaping.md
+          - "Level 5: Equations of falling":
+              - topics/gravity/level-5/index.md
+              - topics/gravity/level-5/01-distance-fallen.md
+              - topics/gravity/level-5/02-speed-of-a-fall.md
+              - topics/gravity/level-5/03-projectiles.md
+              - topics/gravity/level-5/04-the-mars-jump.md
+              - topics/gravity/level-5/05-terminal-velocity.md
+              - topics/gravity/level-5/06-gravity-with-height.md
+          - "Level 6: Newton's law of gravity":
+              - topics/gravity/level-6/index.md
+              - topics/gravity/level-6/01-the-law-of-gravity.md
+              - topics/gravity/level-6/02-g-from-a-planet.md
+              - topics/gravity/level-6/03-orbital-speed.md
+              - topics/gravity/level-6/04-keplers-third-law.md
+              - topics/gravity/level-6/05-areostationary-orbit.md
+              - topics/gravity/level-6/06-weighing-planets.md
+          - "Level 7: Energy and orbits":
+              - topics/gravity/level-7/index.md
+              - topics/gravity/level-7/01-gravitational-energy.md
+              - topics/gravity/level-7/02-escape-speed.md
+              - topics/gravity/level-7/03-ellipses.md
+              - topics/gravity/level-7/04-vis-viva.md
+              - topics/gravity/level-7/05-hohmann-transfer.md
+              - topics/gravity/level-7/06-launch-windows.md
+          - "Level 8: Orbits for mission design":
+              - topics/gravity/level-8/index.md
+              - topics/gravity/level-8/01-delta-v-budgets.md
+              - topics/gravity/level-8/02-gravity-assists.md
+              - topics/gravity/level-8/03-lagrange-points.md
+              - topics/gravity/level-8/04-orbits-that-drift.md
+              - topics/gravity/level-8/05-the-fate-of-phobos.md
+              - topics/gravity/level-8/06-relativity-and-orbits.md
+      - "Rockets and landing":
+          - topics/rockets/index.md
+          - "Level 1: Push and go":
+              - topics/rockets/level-1/index.md
+              - topics/rockets/level-1/01-pushes-make-things-go.md
+              - topics/rockets/level-1/02-the-balloon-rocket.md
+              - topics/rockets/level-1/03-fast-and-slow.md
+              - topics/rockets/level-1/04-up-into-the-sky.md
+              - topics/rockets/level-1/05-coming-down-gently.md
+              - topics/rockets/level-1/06-parachutes-and-legs.md
+          - "Level 2: Action and reaction":
+              - topics/rockets/level-2/index.md
+              - topics/rockets/level-2/01-push-back.md
+              - topics/rockets/level-2/02-skateboard-and-ball.md
+              - topics/rockets/level-2/03-no-air-needed.md
+              - topics/rockets/level-2/04-fuel-and-oxygen.md
+              - topics/rockets/level-2/05-water-rocket.md
+              - topics/rockets/level-2/06-parts-of-a-rocket.md
+          - "Level 3: Forces on a rocket":
+              - topics/rockets/level-3/index.md
+              - topics/rockets/level-3/01-forces-in-newtons.md
+              - topics/rockets/level-3/02-thrust-and-weight.md
+              - topics/rockets/level-3/03-drag.md
+              - topics/rockets/level-3/04-speeding-up.md
+              - topics/rockets/level-3/05-stages.md
+              - topics/rockets/level-3/06-heat-shields.md
+          - "Level 4: Into space and down to Mars":
+              - topics/rockets/level-4/index.md
+              - topics/rockets/level-4/01-where-space-begins.md
+              - topics/rockets/level-4/02-orbit-is-speed.md
+              - topics/rockets/level-4/03-the-trip-to-mars.md
+              - topics/rockets/level-4/04-seven-minutes.md
+              - topics/rockets/level-4/05-parachutes-in-thin-air.md
+              - topics/rockets/level-4/06-landing-on-rockets.md
+          - "Level 5: Newton's laws for rockets":
+              - topics/rockets/level-5/index.md
+              - topics/rockets/level-5/01-f-equals-ma.md
+              - topics/rockets/level-5/02-thrust-to-weight.md
+              - topics/rockets/level-5/03-momentum.md
+              - topics/rockets/level-5/04-impulse.md
+              - topics/rockets/level-5/05-exhaust-speed.md
+              - topics/rockets/level-5/06-drag-and-speed.md
+          - "Level 6: The rocket equation":
+              - topics/rockets/level-6/index.md
+              - topics/rockets/level-6/01-conservation-of-momentum.md
+              - topics/rockets/level-6/02-recoil.md
+              - topics/rockets/level-6/03-specific-impulse.md
+              - topics/rockets/level-6/04-mass-ratio.md
+              - topics/rockets/level-6/05-the-rocket-equation.md
+              - topics/rockets/level-6/06-staging.md
+          - "Level 7: Landing on Mars":
+              - topics/rockets/level-7/index.md
+              - topics/rockets/level-7/01-the-drag-equation.md
+              - topics/rockets/level-7/02-thin-air.md
+              - topics/rockets/level-7/03-parachute-terminal-speed.md
+              - topics/rockets/level-7/04-entry-heating.md
+              - topics/rockets/level-7/05-supersonic-retropropulsion.md
+              - topics/rockets/level-7/06-flying-on-mars.md
+          - "Level 8: Mission design":
+              - topics/rockets/level-8/index.md
+              - topics/rockets/level-8/01-delta-v-to-the-surface.md
+              - topics/rockets/level-8/02-propellant-from-mars.md
+              - topics/rockets/level-8/03-gravity-losses.md
+              - topics/rockets/level-8/04-aerobraking-and-aerocapture.md
+              - topics/rockets/level-8/05-nuclear-and-electric.md
+              - topics/rockets/level-8/06-landing-precision.md
+      - "Forces and motion":
+          - topics/forces/index.md
+      - "Energy and power":
+          - topics/energy/index.md
+      - "Heat and matter":
+          - topics/heat/index.md
+      - "Air and fluids":
+          - topics/air/index.md
+      - "Waves, sound and light":
+          - topics/waves/index.md
+      - "Electricity and magnetism":
+          - topics/electricity/index.md
+      - "Radiation and the atom":
+          - topics/radiation/index.md
+      - "Space and time":
+          - topics/spacetime/index.md
+  # topics: end
+  - Simulators: sims.md
