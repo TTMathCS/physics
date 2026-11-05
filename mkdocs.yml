@@ -47,6 +47,7 @@ extra_css:
   - stylesheets/reader.css
   - stylesheets/sims.css
   - katex/katex.min.css
+  - stylesheets/ask.css
 
 extra:
   homepage: https://www.akadian.ca/
@@ -61,6 +62,7 @@ extra_javascript:
   - javascripts/reader.js
   - javascripts/levelcheck.js
   - javascripts/sims.js
+  - javascripts/ask.js
 
 markdown_extensions:
   - toc:
