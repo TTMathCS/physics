@@ -49,8 +49,7 @@ that is safe on rock can be unsafe on sand. Rover drivers check the ground, not 
 loose ground, the wheels slip more and more as the slope steepens.
 
 Tipping over is a separate risk: the rover tips if the line straight down from its centre of mass falls outside its
-wheels. That does not depend on $g$ either. Curiosity was designed to survive a tilt of 45° without tipping, but its
-drivers avoid tilts of more than 30°.
+wheels. That does not depend on $g$ either. Rover drivers keep well away from tilts anywhere near that point.
 
 ## Worked examples
 
@@ -82,4 +81,4 @@ proportion. Weak gravity does not help a parked rover at all.
 
 - Back: [Sliding down a ramp](04-sliding-down.md) · Next: [Sand piles and dunes](06-sand-piles-and-dunes.md)
 - [Level 6 page](index.md) · [Forces and motion topic page](../index.md)
-- Curiosity's design limits: NASA's [Curiosity rover page](https://science.nasa.gov/mission/msl-curiosity/).
+- The rover itself: NASA's [Curiosity rover page](https://science.nasa.gov/mission/msl-curiosity/).
