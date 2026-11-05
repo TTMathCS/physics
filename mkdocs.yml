@@ -292,6 +292,70 @@ nav:
               - topics/forces/level-8/06-building-under-0-38-g.md
       - "Energy and power":
           - topics/energy/index.md
+          - "Level 1: What makes things go":
+              - topics/energy/level-1/index.md
+              - topics/energy/level-1/01-energy-makes-things-go.md
+              - topics/energy/level-1/02-energy-from-food.md
+              - topics/energy/level-1/03-energy-from-the-sun.md
+              - topics/energy/level-1/04-batteries.md
+              - topics/energy/level-1/05-wind-and-water.md
+              - topics/energy/level-1/06-energy-on-mars.md
+          - "Level 2: Stored and moving":
+              - topics/energy/level-2/index.md
+              - topics/energy/level-2/01-moving-energy.md
+              - topics/energy/level-2/02-up-high.md
+              - topics/energy/level-2/03-stretched-and-squashed.md
+              - topics/energy/level-2/04-energy-changes-form.md
+              - topics/energy/level-2/05-heat-is-energy.md
+              - topics/energy/level-2/06-light-and-sound.md
+          - "Level 3: Energy in, energy out":
+              - topics/energy/level-3/index.md
+              - topics/energy/level-3/01-nothing-is-lost.md
+              - topics/energy/level-3/02-energy-chains.md
+              - topics/energy/level-3/03-where-the-waste-goes.md
+              - topics/energy/level-3/04-pendulum.md
+              - topics/energy/level-3/05-bouncing-ball.md
+              - topics/energy/level-3/06-saving-energy.md
+          - "Level 4: Joules and watts":
+              - topics/energy/level-4/index.md
+              - topics/energy/level-4/01-the-joule.md
+              - topics/energy/level-4/02-the-watt.md
+              - topics/energy/level-4/03-kilowatt-hours.md
+              - topics/energy/level-4/04-energy-in-food.md
+              - topics/energy/level-4/05-power-of-a-person.md
+              - topics/energy/level-4/06-rovers-and-power.md
+          - "Level 5: Work and kinetic energy":
+              - topics/energy/level-5/index.md
+              - topics/energy/level-5/01-work.md
+              - topics/energy/level-5/02-work-at-an-angle.md
+              - topics/energy/level-5/03-kinetic-energy.md
+              - topics/energy/level-5/04-potential-energy.md
+              - topics/energy/level-5/05-a-dropped-tool.md
+              - topics/energy/level-5/06-work-energy-theorem.md
+          - "Level 6: Efficiency and the Sun":
+              - topics/energy/level-6/index.md
+              - topics/energy/level-6/01-efficiency.md
+              - topics/energy/level-6/02-sankey-diagrams.md
+              - topics/energy/level-6/03-sunlight-at-mars.md
+              - topics/energy/level-6/04-solar-panels.md
+              - topics/energy/level-6/05-dust-on-the-panels.md
+              - topics/energy/level-6/06-dust-storms.md
+          - "Level 7: Storing energy":
+              - topics/energy/level-7/index.md
+              - topics/energy/level-7/01-why-store-energy.md
+              - topics/energy/level-7/02-batteries.md
+              - topics/energy/level-7/03-hydrogen.md
+              - topics/energy/level-7/04-flywheels.md
+              - topics/energy/level-7/05-pumped-storage.md
+              - topics/energy/level-7/06-through-a-dust-storm.md
+          - "Level 8: Power for a city":
+              - topics/energy/level-8/index.md
+              - topics/energy/level-8/01-radioisotope-power.md
+              - topics/energy/level-8/02-fission.md
+              - topics/energy/level-8/03-a-reactor-for-mars.md
+              - topics/energy/level-8/04-heat-engines.md
+              - topics/energy/level-8/05-a-city-energy-budget.md
+              - topics/energy/level-8/06-choosing-power.md
       - "Heat and matter":
           - topics/heat/index.md
       - "Air and fluids":
