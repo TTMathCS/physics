@@ -226,6 +226,70 @@ nav:
               - topics/rockets/level-8/06-landing-precision.md
       - "Forces and motion":
           - topics/forces/index.md
+          - "Level 1: Pushes and pulls":
+              - topics/forces/level-1/index.md
+              - topics/forces/level-1/01-pushes-and-pulls.md
+              - topics/forces/level-1/02-starting-and-stopping.md
+              - topics/forces/level-1/03-a-bigger-push.md
+              - topics/forces/level-1/04-heavy-things.md
+              - topics/forces/level-1/05-turning-and-squashing.md
+              - topics/forces/level-1/06-moving-things-on-mars.md
+          - "Level 2: Rubbing and rolling":
+              - topics/forces/level-2/index.md
+              - topics/forces/level-2/01-rubbing-slows-things-down.md
+              - topics/forces/level-2/02-smooth-and-rough.md
+              - topics/forces/level-2/03-wheels-and-rollers.md
+              - topics/forces/level-2/04-slopes.md
+              - topics/forces/level-2/05-stuck-in-the-sand.md
+              - topics/forces/level-2/06-why-rovers-drive-slowly.md
+          - "Level 3: Balanced and unbalanced":
+              - topics/forces/level-3/index.md
+              - topics/forces/level-3/01-force-arrows.md
+              - topics/forces/level-3/02-balanced-forces.md
+              - topics/forces/level-3/03-unbalanced-forces.md
+              - topics/forces/level-3/04-the-newton.md
+              - topics/forces/level-3/05-springs.md
+              - topics/forces/level-3/06-weighing-on-mars.md
+          - "Level 4: Speed and direction":
+              - topics/forces/level-4/index.md
+              - topics/forces/level-4/01-speed.md
+              - topics/forces/level-4/02-velocity.md
+              - topics/forces/level-4/03-distance-time-graphs.md
+              - topics/forces/level-4/04-acceleration.md
+              - topics/forces/level-4/05-turning-needs-a-force.md
+              - topics/forces/level-4/06-planning-a-long-drive.md
+          - "Level 5: Newton's laws":
+              - topics/forces/level-5/index.md
+              - topics/forces/level-5/01-first-law.md
+              - topics/forces/level-5/02-mass-and-inertia.md
+              - topics/forces/level-5/03-second-law.md
+              - topics/forces/level-5/04-weight.md
+              - topics/forces/level-5/05-third-law.md
+              - topics/forces/level-5/06-free-body-diagrams.md
+          - "Level 6: Friction and slopes":
+              - topics/forces/level-6/index.md
+              - topics/forces/level-6/01-static-and-kinetic.md
+              - topics/forces/level-6/02-coefficient-of-friction.md
+              - topics/forces/level-6/03-forces-on-a-ramp.md
+              - topics/forces/level-6/04-sliding-down.md
+              - topics/forces/level-6/05-parked-on-a-slope.md
+              - topics/forces/level-6/06-sand-piles-and-dunes.md
+          - "Level 7: Moving in circles":
+              - topics/forces/level-7/index.md
+              - topics/forces/level-7/01-centripetal-acceleration.md
+              - topics/forces/level-7/02-centripetal-force.md
+              - topics/forces/level-7/03-cornering.md
+              - topics/forces/level-7/04-banked-tracks.md
+              - topics/forces/level-7/05-loops-and-hills.md
+              - topics/forces/level-7/06-spinning-for-gravity.md
+          - "Level 8: Rotation and stress":
+              - topics/forces/level-8/index.md
+              - topics/forces/level-8/01-torque.md
+              - topics/forces/level-8/02-moment-of-inertia.md
+              - topics/forces/level-8/03-angular-acceleration.md
+              - topics/forces/level-8/04-angular-momentum.md
+              - topics/forces/level-8/05-stress-and-strain.md
+              - topics/forces/level-8/06-building-under-0-38-g.md
       - "Energy and power":
           - topics/energy/index.md
       - "Heat and matter":
