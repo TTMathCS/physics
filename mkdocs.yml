@@ -492,6 +492,70 @@ nav:
               - topics/air/level-8/06-how-dust-storms-grow.md
       - "Waves, sound and light":
           - topics/waves/index.md
+          - "Level 1: Echoes and rainbows":
+              - topics/waves/level-1/index.md
+              - topics/waves/level-1/01-making-sounds.md
+              - topics/waves/level-1/02-loud-and-quiet.md
+              - topics/waves/level-1/03-high-and-low-sounds.md
+              - topics/waves/level-1/04-echoes.md
+              - topics/waves/level-1/05-rainbows.md
+              - topics/waves/level-1/06-sounds-and-colours-on-mars.md
+          - "Level 2: Light and shadow":
+              - topics/waves/level-2/index.md
+              - topics/waves/level-2/01-light-sources.md
+              - topics/waves/level-2/02-light-travels-in-straight-lines.md
+              - topics/waves/level-2/03-shadows.md
+              - topics/waves/level-2/04-mirrors.md
+              - topics/waves/level-2/05-how-we-see.md
+              - topics/waves/level-2/06-sunlight-on-mars.md
+          - "Level 3: Vibrations":
+              - topics/waves/level-3/index.md
+              - topics/waves/level-3/01-sound-is-a-vibration.md
+              - topics/waves/level-3/02-sound-needs-something-to-travel-through.md
+              - topics/waves/level-3/03-how-fast-sound-travels.md
+              - topics/waves/level-3/04-pitch.md
+              - topics/waves/level-3/05-loudness.md
+              - topics/waves/level-3/06-hearing.md
+          - "Level 4: Sound on Mars":
+              - topics/waves/level-4/index.md
+              - topics/waves/level-4/01-sound-in-thin-air.md
+              - topics/waves/level-4/02-the-speed-of-sound-on-mars.md
+              - topics/waves/level-4/03-two-speeds-of-sound.md
+              - topics/waves/level-4/04-high-notes-fade.md
+              - topics/waves/level-4/05-what-the-microphones-heard.md
+              - topics/waves/level-4/06-talking-on-mars.md
+          - "Level 5: Wave speed":
+              - topics/waves/level-5/index.md
+              - topics/waves/level-5/01-what-is-a-wave.md
+              - topics/waves/level-5/02-frequency-and-wavelength.md
+              - topics/waves/level-5/03-the-speed-of-light.md
+              - topics/waves/level-5/04-reflection.md
+              - topics/waves/level-5/05-refraction.md
+              - topics/waves/level-5/06-the-doppler-effect.md
+          - "Level 6: Light and colour":
+              - topics/waves/level-6/index.md
+              - topics/waves/level-6/01-the-spectrum.md
+              - topics/waves/level-6/02-the-electromagnetic-spectrum.md
+              - topics/waves/level-6/03-why-things-have-colour.md
+              - topics/waves/level-6/04-scattering.md
+              - topics/waves/level-6/05-the-sky-of-mars.md
+              - topics/waves/level-6/06-colour-cameras-on-mars.md
+          - "Level 7: Lenses and telescopes":
+              - topics/waves/level-7/index.md
+              - topics/waves/level-7/01-refraction-and-snells-law.md
+              - topics/waves/level-7/02-converging-lenses.md
+              - topics/waves/level-7/03-the-lens-equation.md
+              - topics/waves/level-7/04-telescopes.md
+              - topics/waves/level-7/05-seeing-mars-from-earth.md
+              - topics/waves/level-7/06-seeing-earth-from-mars.md
+          - "Level 8: Spectra":
+              - topics/waves/level-8/index.md
+              - topics/waves/level-8/01-photons-and-energy-levels.md
+              - topics/waves/level-8/02-emission-lines.md
+              - topics/waves/level-8/03-absorption-lines.md
+              - topics/waves/level-8/04-the-diffraction-grating.md
+              - topics/waves/level-8/05-reading-rocks-with-lasers.md
+              - topics/waves/level-8/06-doppler-shifts-of-light.md
       - "Electricity and magnetism":
           - topics/electricity/index.md
       - "Radiation and the atom":
