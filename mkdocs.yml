@@ -558,6 +558,70 @@ nav:
               - topics/waves/level-8/06-doppler-shifts-of-light.md
       - "Electricity and magnetism":
           - topics/electricity/index.md
+          - "Level 1: Magnets and batteries":
+              - topics/electricity/level-1/index.md
+              - topics/electricity/level-1/01-what-magnets-pick-up.md
+              - topics/electricity/level-1/02-two-ends-of-a-magnet.md
+              - topics/electricity/level-1/03-a-compass.md
+              - topics/electricity/level-1/04-batteries.md
+              - topics/electricity/level-1/05-a-battery-and-a-bulb.md
+              - topics/electricity/level-1/06-magnets-and-batteries-on-mars.md
+          - "Level 2: Circuits":
+              - topics/electricity/level-2/index.md
+              - topics/electricity/level-2/01-a-complete-circuit.md
+              - topics/electricity/level-2/02-switches.md
+              - topics/electricity/level-2/03-conductors-and-insulators.md
+              - topics/electricity/level-2/04-circuit-symbols.md
+              - topics/electricity/level-2/05-more-bulbs-more-batteries.md
+              - topics/electricity/level-2/06-a-rovers-circuits.md
+          - "Level 3: Static and current":
+              - topics/electricity/level-3/index.md
+              - topics/electricity/level-3/01-static-electricity.md
+              - topics/electricity/level-3/02-charges-push-and-pull.md
+              - topics/electricity/level-3/03-sparks-and-lightning.md
+              - topics/electricity/level-3/04-current-is-moving-charge.md
+              - topics/electricity/level-3/05-dust-that-clings.md
+              - topics/electricity/level-3/06-sparks-on-mars.md
+          - "Level 4: Volts, amps, watts":
+              - topics/electricity/level-4/index.md
+              - topics/electricity/level-4/01-voltage.md
+              - topics/electricity/level-4/02-current-and-amps.md
+              - topics/electricity/level-4/03-power-in-watts.md
+              - topics/electricity/level-4/04-measuring-a-circuit.md
+              - topics/electricity/level-4/05-power-from-a-solar-panel.md
+              - topics/electricity/level-4/06-charging-on-mars.md
+          - "Level 5: Ohm's law":
+              - topics/electricity/level-5/index.md
+              - topics/electricity/level-5/01-resistance.md
+              - topics/electricity/level-5/02-ohms-law.md
+              - topics/electricity/level-5/03-series-circuits.md
+              - topics/electricity/level-5/04-parallel-circuits.md
+              - topics/electricity/level-5/05-resistance-of-wires.md
+              - topics/electricity/level-5/06-cold-wires-on-mars.md
+          - "Level 6: Fields":
+              - topics/electricity/level-6/index.md
+              - topics/electricity/level-6/01-electric-fields.md
+              - topics/electricity/level-6/02-coulombs-law.md
+              - topics/electricity/level-6/03-magnetic-fields.md
+              - topics/electricity/level-6/04-earths-magnetic-field.md
+              - topics/electricity/level-6/05-the-lost-field-of-mars.md
+              - topics/electricity/level-6/06-auroras.md
+          - "Level 7: Motors and generators":
+              - topics/electricity/level-7/index.md
+              - topics/electricity/level-7/01-electromagnets.md
+              - topics/electricity/level-7/02-the-motor-effect.md
+              - topics/electricity/level-7/03-electric-motors.md
+              - topics/electricity/level-7/04-electromagnetic-induction.md
+              - topics/electricity/level-7/05-generators-and-transformers.md
+              - topics/electricity/level-7/06-motors-on-mars.md
+          - "Level 8: A planet's shield":
+              - topics/electricity/level-8/index.md
+              - topics/electricity/level-8/01-charged-particles-in-a-field.md
+              - topics/electricity/level-8/02-the-solar-wind.md
+              - topics/electricity/level-8/03-magnetospheres.md
+              - topics/electricity/level-8/04-planetary-dynamos.md
+              - topics/electricity/level-8/05-how-mars-lost-its-air.md
+              - topics/electricity/level-8/06-could-a-magnet-shield-astronauts.md
       - "Radiation and the atom":
           - topics/radiation/index.md
       - "Space and time":
