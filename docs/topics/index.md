@@ -23,7 +23,7 @@ level 7 from about 15, and level 8 is the bridge to university. These are rough 
 | [Forces and motion](forces/index.md) | Pushes and pulls | Newton's laws, friction and circular motion |
 | [Energy and power](energy/index.md) | What makes things go | Solar power at Mars's distance, batteries and reactors |
 | [Heat and matter](heat/index.md) | Hot and cold | Gas laws, boiling in thin air and keeping a home warm |
-| [Air and fluids](air/index.md) | Wind and bubbles | Lift, drag and a helicopter in air sixty times thinner |
+| [Air and fluids](air/index.md) | Wind and bubbles | Lift, drag and a helicopter in air 75 times less dense |
 | [Waves, sound and light](waves/index.md) | Echoes and rainbows | Spectra, telescopes and the blue sunsets of Mars |
 | [Electricity and magnetism](electricity/index.md) | Magnets and batteries | Fields, motors and a planet that lost its magnetic field |
 | [Radiation and the atom](radiation/index.md) | What everything is made of | Cosmic rays, doses and shielding a city |

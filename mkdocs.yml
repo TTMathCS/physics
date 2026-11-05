@@ -424,6 +424,70 @@ nav:
               - topics/heat/level-8/06-the-climate-of-mars.md
       - "Air and fluids":
           - topics/air/index.md
+          - "Level 1: Wind and bubbles":
+              - topics/air/level-1/index.md
+              - topics/air/level-1/01-air-is-all-around.md
+              - topics/air/level-1/02-wind.md
+              - topics/air/level-1/03-blowing-bubbles.md
+              - topics/air/level-1/04-wind-pushes.md
+              - topics/air/level-1/05-air-to-breathe.md
+              - topics/air/level-1/06-wind-on-mars.md
+          - "Level 2: Floating and sinking":
+              - topics/air/level-2/index.md
+              - topics/air/level-2/01-float-or-sink.md
+              - topics/air/level-2/02-water-pushes-up.md
+              - topics/air/level-2/03-heavy-for-its-size.md
+              - topics/air/level-2/04-boats.md
+              - topics/air/level-2/05-balloons.md
+              - topics/air/level-2/06-floating-on-mars.md
+          - "Level 3: Air pushes":
+              - topics/air/level-3/index.md
+              - topics/air/level-3/01-air-has-weight.md
+              - topics/air/level-3/02-air-pushes-every-way.md
+              - topics/air/level-3/03-drinking-straws.md
+              - topics/air/level-3/04-suction-cups.md
+              - topics/air/level-3/05-a-sealed-bag-on-a-mountain.md
+              - topics/air/level-3/06-air-pushes-less-on-mars.md
+          - "Level 4: Thin air":
+              - topics/air/level-4/index.md
+              - topics/air/level-4/01-how-thin-is-mars-air.md
+              - topics/air/level-4/02-what-mars-air-is-made-of.md
+              - topics/air/level-4/03-air-thins-with-height.md
+              - topics/air/level-4/04-no-air-to-breathe.md
+              - topics/air/level-4/05-why-you-need-a-pressure-suit.md
+              - topics/air/level-4/06-mars-winds-push-gently.md
+          - "Level 5: Pressure and buoyancy":
+              - topics/air/level-5/index.md
+              - topics/air/level-5/01-pressure-in-fluids.md
+              - topics/air/level-5/02-pressure-and-depth.md
+              - topics/air/level-5/03-deep-water-on-mars.md
+              - topics/air/level-5/04-archimedes-principle.md
+              - topics/air/level-5/05-what-floats.md
+              - topics/air/level-5/06-balloons-on-mars.md
+          - "Level 6: Flowing fluids":
+              - topics/air/level-6/index.md
+              - topics/air/level-6/01-flow-rate.md
+              - topics/air/level-6/02-narrow-pipes-fast-flow.md
+              - topics/air/level-6/03-bernoulli-principle.md
+              - topics/air/level-6/04-measuring-wind-speed.md
+              - topics/air/level-6/05-how-a-wing-lifts.md
+              - topics/air/level-6/06-propellers-and-rotors.md
+          - "Level 7: Lift and drag":
+              - topics/air/level-7/index.md
+              - topics/air/level-7/01-the-drag-equation.md
+              - topics/air/level-7/02-terminal-velocity.md
+              - topics/air/level-7/03-landing-on-mars.md
+              - topics/air/level-7/04-the-lift-equation.md
+              - topics/air/level-7/05-how-ingenuity-flew.md
+              - topics/air/level-7/06-dust-devils.md
+          - "Level 8: Winds of a planet":
+              - topics/air/level-8/index.md
+              - topics/air/level-8/01-the-reynolds-number.md
+              - topics/air/level-8/02-laminar-and-turbulent.md
+              - topics/air/level-8/03-pressure-gradients.md
+              - topics/air/level-8/04-the-coriolis-effect.md
+              - topics/air/level-8/05-global-winds.md
+              - topics/air/level-8/06-how-dust-storms-grow.md
       - "Waves, sound and light":
           - topics/waves/index.md
       - "Electricity and magnetism":
