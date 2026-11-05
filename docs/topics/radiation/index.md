@@ -5,18 +5,20 @@ title: Radiation and the atom
 # Radiation and the atom
 
 On Mars there is no thick air and no magnetic field to stop the particles that stream in from the Sun and the
-galaxy. This topic starts with what everything is made of and climbs to atoms, nuclei, kinds of radiation, doses,
-and how many metres of soil keep a city safe.
+galaxy. This topic starts with what everything is made of and climbs to atoms, nuclei, kinds of radiation and doses,
+then works out how much soil keeps a Mars home safe and how the same physics tells the age of a Mars rock.
 
-8 levels. The ages are only a rough guide for parents and teachers; anyone can start at any level.
+8 levels, 48 lessons. The ages are only a rough guide for parents and teachers; anyone can start at any level.
 
-| Level | Rough age | What it covers |
+| Level | Rough age | Lessons |
 | --- | --- | --- |
-| Level 1: What things are made of | 5-6 | Tiny pieces, mixing and separating |
-| Level 2: Sunlight you cannot see | 7-8 | Ultraviolet light, sunburn, why Mars has no ozone shield |
-| Level 3: Atoms | 9-10 | Atoms and elements, what Mars rocks are made of |
-| Level 4: Inside the atom | 11-12 | Protons, neutrons, electrons, isotopes |
-| Level 5: Kinds of radiation | 12-13 | Alpha, beta, gamma, cosmic rays, what stops each one |
-| Level 6: Doses | 13-14 | Sieverts, the dose on the way to Mars and on its surface (Curiosity's RAD) |
-| Level 7: Shielding | 15-16 | Half-value thickness, water and regolith shields, how deep to build |
-| Level 8: Nuclear physics | 17 and beyond | Binding energy, fission, fusion, radioisotope power, dating Mars rocks |
+| [Level 1: What things are made of](level-1/index.md) | 5-6 | [Tiny pieces](level-1/01-tiny-pieces.md); [Mixing](level-1/02-mixing.md); [Separating](level-1/03-separating.md); [Dissolving](level-1/04-dissolving.md); [Soil](level-1/05-soil.md); [What Mars is made of](level-1/06-what-mars-is-made-of.md) |
+| [Level 2: Sunlight you cannot see](level-2/index.md) | 7-8 | [Light you cannot see](level-2/01-light-you-cannot-see.md); [Ultraviolet light](level-2/02-ultraviolet-light.md); [Sunburn](level-2/03-sunburn.md); [The ozone layer](level-2/04-the-ozone-layer.md); [What blocks ultraviolet](level-2/05-what-blocks-ultraviolet.md); [Ultraviolet on Mars](level-2/06-ultraviolet-on-mars.md) |
+| [Level 3: Atoms](level-3/index.md) | 9-10 | [Atoms](level-3/01-atoms.md); [Elements](level-3/02-elements.md); [The periodic table](level-3/03-the-periodic-table.md); [Compounds](level-3/04-compounds.md); [Elements in the stars](level-3/05-elements-in-the-stars.md); [What Mars rocks are made of](level-3/06-what-mars-rocks-are-made-of.md) |
+| [Level 4: Inside the atom](level-4/index.md) | 11-12 | [The nucleus](level-4/01-the-nucleus.md); [Protons and neutrons](level-4/02-protons-and-neutrons.md); [Electrons](level-4/03-electrons.md); [Isotopes](level-4/04-isotopes.md); [Mass number and symbols](level-4/05-mass-number-and-symbols.md); [Isotopes on Mars](level-4/06-isotopes-on-mars.md) |
+| [Level 5: Kinds of radiation](level-5/index.md) | 12-13 | [Radioactive decay](level-5/01-radioactive-decay.md); [Alpha](level-5/02-alpha.md); [Beta](level-5/03-beta.md); [Gamma](level-5/04-gamma.md); [Cosmic rays](level-5/05-cosmic-rays.md); [Radiation on the way to Mars](level-5/06-radiation-on-the-way-to-mars.md) |
+| [Level 6: Doses](level-6/index.md) | 13-14 | [Absorbed dose](level-6/01-absorbed-dose.md); [The sievert](level-6/02-the-sievert.md); [Everyday doses](level-6/03-everyday-doses.md); [The trip to Mars](level-6/04-the-trip-to-mars.md); [On the surface of Mars](level-6/05-on-the-surface-of-mars.md); [A whole mission](level-6/06-a-whole-mission.md) |
+| [Level 7: Shielding](level-7/index.md) | 15-16 | [How shields work](level-7/01-how-shields-work.md); [Half-value thickness](level-7/02-half-value-thickness.md); [Mass per area](level-7/03-mass-per-area.md); [Why hydrogen shields best](level-7/04-why-hydrogen-shields-best.md); [Regolith shields](level-7/05-regolith-shields.md); [How deep to build](level-7/06-how-deep-to-build.md) |
+| [Level 8: Nuclear physics](level-8/index.md) | 17 and beyond | [Mass and energy](level-8/01-mass-and-energy.md); [Binding energy](level-8/02-binding-energy.md); [Fission and fusion](level-8/03-fission-and-fusion.md); [The decay law](level-8/04-the-decay-law.md); [Dating Mars rocks](level-8/05-dating-mars-rocks.md); [Exposure ages](level-8/06-exposure-ages.md) |
+
+Sources: NASA's [Mars fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html) and [Earth fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html), NASA on [Curiosity's radiation and age results](https://www.nasa.gov/news-release/nasa-rover-results-include-first-age-measurement-on-mars-and-help-for-human-exploration/), [protecting astronauts on Mars](https://www.nasa.gov/science-research/heliophysics/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars/) and [MAVEN's argon results](https://www.nasa.gov/news-release/nasas-maven-reveals-most-of-mars-atmosphere-was-lost-to-space/), SwRI on [radiation on the way to Mars](https://www.swri.org/press-release/swri-led-team-calculates-radiation-exposure-associated-trip-mars), the Mars Pathfinder [soil results](https://nssdc.gsfc.nasa.gov/planetary/marspath/apxs_table1.html), the Canadian Nuclear Safety Commission on [radiation doses](https://www.cnsc-ccsn.gc.ca/eng/nuclear-safety-security/educational-resources/radiation/radiation-doses/), NIST's [X-ray and gamma-ray tables](https://physics.nist.gov/PhysRefData/XrayMassCoef/ElemTab/z82.html) and [isotope tables](https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=U), the USGS on [radiometric dating](https://pubs.usgs.gov/gip/geotime/radiometric.html), and the 2022 study of [radiation under the surface of Mars](https://www.space.com/mars-radiation-protection-astronauts-underground).

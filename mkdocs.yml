@@ -624,6 +624,70 @@ nav:
               - topics/electricity/level-8/06-could-a-magnet-shield-astronauts.md
       - "Radiation and the atom":
           - topics/radiation/index.md
+          - "Level 1: What things are made of":
+              - topics/radiation/level-1/index.md
+              - topics/radiation/level-1/01-tiny-pieces.md
+              - topics/radiation/level-1/02-mixing.md
+              - topics/radiation/level-1/03-separating.md
+              - topics/radiation/level-1/04-dissolving.md
+              - topics/radiation/level-1/05-soil.md
+              - topics/radiation/level-1/06-what-mars-is-made-of.md
+          - "Level 2: Sunlight you cannot see":
+              - topics/radiation/level-2/index.md
+              - topics/radiation/level-2/01-light-you-cannot-see.md
+              - topics/radiation/level-2/02-ultraviolet-light.md
+              - topics/radiation/level-2/03-sunburn.md
+              - topics/radiation/level-2/04-the-ozone-layer.md
+              - topics/radiation/level-2/05-what-blocks-ultraviolet.md
+              - topics/radiation/level-2/06-ultraviolet-on-mars.md
+          - "Level 3: Atoms":
+              - topics/radiation/level-3/index.md
+              - topics/radiation/level-3/01-atoms.md
+              - topics/radiation/level-3/02-elements.md
+              - topics/radiation/level-3/03-the-periodic-table.md
+              - topics/radiation/level-3/04-compounds.md
+              - topics/radiation/level-3/05-elements-in-the-stars.md
+              - topics/radiation/level-3/06-what-mars-rocks-are-made-of.md
+          - "Level 4: Inside the atom":
+              - topics/radiation/level-4/index.md
+              - topics/radiation/level-4/01-the-nucleus.md
+              - topics/radiation/level-4/02-protons-and-neutrons.md
+              - topics/radiation/level-4/03-electrons.md
+              - topics/radiation/level-4/04-isotopes.md
+              - topics/radiation/level-4/05-mass-number-and-symbols.md
+              - topics/radiation/level-4/06-isotopes-on-mars.md
+          - "Level 5: Kinds of radiation":
+              - topics/radiation/level-5/index.md
+              - topics/radiation/level-5/01-radioactive-decay.md
+              - topics/radiation/level-5/02-alpha.md
+              - topics/radiation/level-5/03-beta.md
+              - topics/radiation/level-5/04-gamma.md
+              - topics/radiation/level-5/05-cosmic-rays.md
+              - topics/radiation/level-5/06-radiation-on-the-way-to-mars.md
+          - "Level 6: Doses":
+              - topics/radiation/level-6/index.md
+              - topics/radiation/level-6/01-absorbed-dose.md
+              - topics/radiation/level-6/02-the-sievert.md
+              - topics/radiation/level-6/03-everyday-doses.md
+              - topics/radiation/level-6/04-the-trip-to-mars.md
+              - topics/radiation/level-6/05-on-the-surface-of-mars.md
+              - topics/radiation/level-6/06-a-whole-mission.md
+          - "Level 7: Shielding":
+              - topics/radiation/level-7/index.md
+              - topics/radiation/level-7/01-how-shields-work.md
+              - topics/radiation/level-7/02-half-value-thickness.md
+              - topics/radiation/level-7/03-mass-per-area.md
+              - topics/radiation/level-7/04-why-hydrogen-shields-best.md
+              - topics/radiation/level-7/05-regolith-shields.md
+              - topics/radiation/level-7/06-how-deep-to-build.md
+          - "Level 8: Nuclear physics":
+              - topics/radiation/level-8/index.md
+              - topics/radiation/level-8/01-mass-and-energy.md
+              - topics/radiation/level-8/02-binding-energy.md
+              - topics/radiation/level-8/03-fission-and-fusion.md
+              - topics/radiation/level-8/04-the-decay-law.md
+              - topics/radiation/level-8/05-dating-mars-rocks.md
+              - topics/radiation/level-8/06-exposure-ages.md
       - "Space and time":
           - topics/spacetime/index.md
   # topics: end
