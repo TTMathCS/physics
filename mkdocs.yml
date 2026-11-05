@@ -358,6 +358,70 @@ nav:
               - topics/energy/level-8/06-choosing-power.md
       - "Heat and matter":
           - topics/heat/index.md
+          - "Level 1: Hot and cold":
+              - topics/heat/level-1/index.md
+              - topics/heat/level-1/01-hot-and-cold.md
+              - topics/heat/level-1/02-thermometers.md
+              - topics/heat/level-1/03-the-sun-warms.md
+              - topics/heat/level-1/04-keeping-warm.md
+              - topics/heat/level-1/05-hot-things-cool-down.md
+              - topics/heat/level-1/06-cold-on-mars.md
+          - "Level 2: Solid, liquid, gas":
+              - topics/heat/level-2/index.md
+              - topics/heat/level-2/01-solids-liquids-gases.md
+              - topics/heat/level-2/02-melting-and-freezing.md
+              - topics/heat/level-2/03-boiling-and-steam.md
+              - topics/heat/level-2/04-evaporation.md
+              - topics/heat/level-2/05-condensation.md
+              - topics/heat/level-2/06-ice-on-mars.md
+          - "Level 3: Heat on the move":
+              - topics/heat/level-3/index.md
+              - topics/heat/level-3/01-heat-flows-hot-to-cold.md
+              - topics/heat/level-3/02-conduction.md
+              - topics/heat/level-3/03-insulators.md
+              - topics/heat/level-3/04-convection.md
+              - topics/heat/level-3/05-radiation.md
+              - topics/heat/level-3/06-keeping-a-rover-warm.md
+          - "Level 4: Temperature, measured":
+              - topics/heat/level-4/index.md
+              - topics/heat/level-4/01-celsius-and-kelvin.md
+              - topics/heat/level-4/02-heat-and-temperature.md
+              - topics/heat/level-4/03-specific-heat-capacity.md
+              - topics/heat/level-4/04-heating-water.md
+              - topics/heat/level-4/05-thermal-expansion.md
+              - topics/heat/level-4/06-a-mars-night.md
+          - "Level 5: Pressure and gases":
+              - topics/heat/level-5/index.md
+              - topics/heat/level-5/01-pressure.md
+              - topics/heat/level-5/02-air-pressure.md
+              - topics/heat/level-5/03-particles-in-a-gas.md
+              - topics/heat/level-5/04-boyles-law.md
+              - topics/heat/level-5/05-gases-and-temperature.md
+              - topics/heat/level-5/06-the-ideal-gas-law.md
+          - "Level 6: Phase changes":
+              - topics/heat/level-6/index.md
+              - topics/heat/level-6/01-latent-heat.md
+              - topics/heat/level-6/02-water-from-ice.md
+              - topics/heat/level-6/03-boiling-point-and-pressure.md
+              - topics/heat/level-6/04-the-triple-point.md
+              - topics/heat/level-6/05-phase-diagrams.md
+              - topics/heat/level-6/06-water-on-mars.md
+          - "Level 7: Insulating a home":
+              - topics/heat/level-7/index.md
+              - topics/heat/level-7/01-heat-loss-through-a-wall.md
+              - topics/heat/level-7/02-layers-and-u-values.md
+              - topics/heat/level-7/03-radiation-from-surfaces.md
+              - topics/heat/level-7/04-regolith-as-insulation.md
+              - topics/heat/level-7/05-windows-and-greenhouses.md
+              - topics/heat/level-7/06-a-heating-budget.md
+          - "Level 8: Thermodynamics":
+              - topics/heat/level-8/index.md
+              - topics/heat/level-8/01-the-first-law.md
+              - topics/heat/level-8/02-the-second-law.md
+              - topics/heat/level-8/03-heat-pumps.md
+              - topics/heat/level-8/04-engines-and-cycles.md
+              - topics/heat/level-8/05-the-greenhouse-effect-on-mars.md
+              - topics/heat/level-8/06-the-climate-of-mars.md
       - "Air and fluids":
           - topics/air/index.md
       - "Waves, sound and light":
