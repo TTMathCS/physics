@@ -5,18 +5,20 @@ title: Space and time
 # Space and time
 
 A message to Mars takes between 3 and 22 minutes, and a day there is 39 minutes longer than ours. This topic starts
-with how fast light is and climbs to distances in space, clocks and calendars on Mars, and Einstein's relativity,
-which a navigator to Mars must take into account.
+with day and night and the size of the solar system, then times light, builds a clock and a calendar for Mars,
+measures the sky, and ends with Einstein's relativity, which a navigator to Mars must take into account.
 
-8 levels. The ages are only a rough guide for parents and teachers; anyone can start at any level.
+8 levels, 48 lessons. The ages are only a rough guide for parents and teachers; anyone can start at any level.
 
-| Level | Rough age | What it covers |
+| Level | Rough age | Lessons |
 | --- | --- | --- |
-| Level 1: Day and night | 5-6 | Why we have day and night, a day on Mars |
-| Level 2: Near and far | 7-8 | How far Mars is, a model of the solar system to scale |
-| Level 3: How fast is light? | 9-10 | Light takes time, talking to a rover with a delay |
-| Level 4: Clocks on Mars | 11-12 | The sol, Mars time, the Mars year and its seasons |
-| Level 5: Measuring the sky | 12-13 | Angles, parallax, astronomical units and light-minutes |
-| Level 6: Light delay | 13-14 | Planning commands across 3 to 22 minutes, signals behind the Sun |
-| Level 7: Special relativity | 15-16 | The speed of light is the same for all, time dilation, E = mc² |
-| Level 8: Gravity and time | 17 and beyond | General relativity, clocks on Mars run faster, how navigation corrects for it |
+| [Level 1: Day and night](level-1/index.md) | 5-6 | [The Sun in the sky](level-1/01-the-sun-in-the-sky.md); [The Earth spins](level-1/02-the-earth-spins.md); [Shadows](level-1/03-shadows.md); [The Moon and stars](level-1/04-the-moon-and-stars.md); [A day on Mars](level-1/05-a-day-on-mars.md); [Two moons](level-1/06-two-moons.md) |
+| [Level 2: Near and far](level-2/index.md) | 7-8 | [How big is the Earth?](level-2/01-how-big-is-the-earth.md); [How far is the Moon?](level-2/02-how-far-is-the-moon.md); [How far is the Sun?](level-2/03-how-far-is-the-sun.md); [The planets in order](level-2/04-the-planets-in-order.md); [How far is Mars?](level-2/05-how-far-is-mars.md); [A model solar system](level-2/06-a-model-solar-system.md) |
+| [Level 3: How fast is light?](level-3/index.md) | 9-10 | [Light takes time](level-3/01-light-takes-time.md); [The fastest thing](level-3/02-the-fastest-thing.md); [Light from the Moon](level-3/03-light-from-the-moon.md); [Light from the Sun](level-3/04-light-from-the-sun.md); [A message to Mars](level-3/05-a-message-to-mars.md); [Driving a rover with a delay](level-3/06-driving-a-rover-with-a-delay.md) |
+| [Level 4: Clocks on Mars](level-4/index.md) | 11-12 | [The sol](level-4/01-the-sol.md); [Solar and sidereal days](level-4/02-solar-and-sidereal-days.md); [Mars time on a mission](level-4/03-mars-time-on-a-mission.md); [The Mars year](level-4/04-the-mars-year.md); [Seasons of unequal length](level-4/05-seasons-of-unequal-length.md); [A calendar for Mars](level-4/06-a-calendar-for-mars.md) |
+| [Level 5: Measuring the sky](level-5/index.md) | 12-13 | [Angles in the sky](level-5/01-angles-in-the-sky.md); [Angular size](level-5/02-angular-size.md); [Parallax](level-5/03-parallax.md); [The astronomical unit](level-5/04-the-astronomical-unit.md); [Light-minutes and light-years](level-5/05-light-minutes-and-light-years.md); [How big Mars looks](level-5/06-how-big-mars-looks.md) |
+| [Level 6: Light delay](level-6/index.md) | 13-14 | [Distance from orbits](level-6/01-distance-from-orbits.md); [One way and round trip](level-6/02-one-way-and-round-trip.md); [Planning a sol of commands](level-6/03-planning-a-sol-of-commands.md); [Relays in orbit](level-6/04-relays-in-orbit.md); [Solar conjunction](level-6/05-solar-conjunction.md); [Ranging to Mars](level-6/06-ranging-to-mars.md) |
+| [Level 7: Special relativity](level-7/index.md) | 15-16 | [Light speed is the same for all](level-7/01-light-speed-is-the-same-for-all.md); [Time dilation](level-7/02-time-dilation.md); [Muons](level-7/03-muons.md); [Length contraction](level-7/04-length-contraction.md); [Nothing goes faster than light](level-7/05-nothing-goes-faster-than-light.md); [Clocks on a trip to Mars](level-7/06-clocks-on-a-trip-to-mars.md) |
+| [Level 8: Gravity and time](level-8/index.md) | 17 and beyond | [The equivalence principle](level-8/01-the-equivalence-principle.md); [Gravity slows clocks](level-8/02-gravity-slows-clocks.md); [GPS and relativity](level-8/03-gps-and-relativity.md); [The bending of light](level-8/04-the-bending-of-light.md); [The Shapiro delay](level-8/05-the-shapiro-delay.md); [A clock for Mars](level-8/06-a-clock-for-mars.md) |
+
+Sources: NASA's [planetary fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/), [Mars fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html), [Moon fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html) and [Sun fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html), NASA GISS [Mars24 notes on Mars time](https://www.giss.nasa.gov/tools/mars24/help/notes.html), the Planetary Society's [Mars calendar](https://www.planetary.org/articles/mars-calendar), NIST's [speed of light](https://physics.nist.gov/cgi-bin/cuu/Value?c), NASA on [how Perseverance drives](https://science.nasa.gov/resource/how-perseverance-drives-on-mars/), [the Mars Relay Network](https://science.nasa.gov/mars/mars-relay-network/) and [solar conjunction](https://www.nasa.gov/solar-system/whats-mars-solar-conjunction-and-why-does-it-matter/), [the Viking relativity experiment](https://ntrs.nasa.gov/citations/19780027515), the [CERN muon storage ring result](https://www.nature.com/articles/268301a0), Ohio State on [GPS and relativity](https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps.html), the [Cassini test of general relativity](https://www.nature.com/articles/nature01997), and NIST, [What time is it on Mars?](https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer).

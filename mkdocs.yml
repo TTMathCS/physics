@@ -690,5 +690,69 @@ nav:
               - topics/radiation/level-8/06-exposure-ages.md
       - "Space and time":
           - topics/spacetime/index.md
+          - "Level 1: Day and night":
+              - topics/spacetime/level-1/index.md
+              - topics/spacetime/level-1/01-the-sun-in-the-sky.md
+              - topics/spacetime/level-1/02-the-earth-spins.md
+              - topics/spacetime/level-1/03-shadows.md
+              - topics/spacetime/level-1/04-the-moon-and-stars.md
+              - topics/spacetime/level-1/05-a-day-on-mars.md
+              - topics/spacetime/level-1/06-two-moons.md
+          - "Level 2: Near and far":
+              - topics/spacetime/level-2/index.md
+              - topics/spacetime/level-2/01-how-big-is-the-earth.md
+              - topics/spacetime/level-2/02-how-far-is-the-moon.md
+              - topics/spacetime/level-2/03-how-far-is-the-sun.md
+              - topics/spacetime/level-2/04-the-planets-in-order.md
+              - topics/spacetime/level-2/05-how-far-is-mars.md
+              - topics/spacetime/level-2/06-a-model-solar-system.md
+          - "Level 3: How fast is light?":
+              - topics/spacetime/level-3/index.md
+              - topics/spacetime/level-3/01-light-takes-time.md
+              - topics/spacetime/level-3/02-the-fastest-thing.md
+              - topics/spacetime/level-3/03-light-from-the-moon.md
+              - topics/spacetime/level-3/04-light-from-the-sun.md
+              - topics/spacetime/level-3/05-a-message-to-mars.md
+              - topics/spacetime/level-3/06-driving-a-rover-with-a-delay.md
+          - "Level 4: Clocks on Mars":
+              - topics/spacetime/level-4/index.md
+              - topics/spacetime/level-4/01-the-sol.md
+              - topics/spacetime/level-4/02-solar-and-sidereal-days.md
+              - topics/spacetime/level-4/03-mars-time-on-a-mission.md
+              - topics/spacetime/level-4/04-the-mars-year.md
+              - topics/spacetime/level-4/05-seasons-of-unequal-length.md
+              - topics/spacetime/level-4/06-a-calendar-for-mars.md
+          - "Level 5: Measuring the sky":
+              - topics/spacetime/level-5/index.md
+              - topics/spacetime/level-5/01-angles-in-the-sky.md
+              - topics/spacetime/level-5/02-angular-size.md
+              - topics/spacetime/level-5/03-parallax.md
+              - topics/spacetime/level-5/04-the-astronomical-unit.md
+              - topics/spacetime/level-5/05-light-minutes-and-light-years.md
+              - topics/spacetime/level-5/06-how-big-mars-looks.md
+          - "Level 6: Light delay":
+              - topics/spacetime/level-6/index.md
+              - topics/spacetime/level-6/01-distance-from-orbits.md
+              - topics/spacetime/level-6/02-one-way-and-round-trip.md
+              - topics/spacetime/level-6/03-planning-a-sol-of-commands.md
+              - topics/spacetime/level-6/04-relays-in-orbit.md
+              - topics/spacetime/level-6/05-solar-conjunction.md
+              - topics/spacetime/level-6/06-ranging-to-mars.md
+          - "Level 7: Special relativity":
+              - topics/spacetime/level-7/index.md
+              - topics/spacetime/level-7/01-light-speed-is-the-same-for-all.md
+              - topics/spacetime/level-7/02-time-dilation.md
+              - topics/spacetime/level-7/03-muons.md
+              - topics/spacetime/level-7/04-length-contraction.md
+              - topics/spacetime/level-7/05-nothing-goes-faster-than-light.md
+              - topics/spacetime/level-7/06-clocks-on-a-trip-to-mars.md
+          - "Level 8: Gravity and time":
+              - topics/spacetime/level-8/index.md
+              - topics/spacetime/level-8/01-the-equivalence-principle.md
+              - topics/spacetime/level-8/02-gravity-slows-clocks.md
+              - topics/spacetime/level-8/03-gps-and-relativity.md
+              - topics/spacetime/level-8/04-the-bending-of-light.md
+              - topics/spacetime/level-8/05-the-shapiro-delay.md
+              - topics/spacetime/level-8/06-a-clock-for-mars.md
   # topics: end
   - Simulators: sims.md
