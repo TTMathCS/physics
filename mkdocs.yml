@@ -87,6 +87,8 @@ validation:
 
 # The menu is written by tools/nav.py from the topic folders (python3 tools/nav.py); do not edit between the marks.
 nav:
+  # Five tabs at most, the same on every course site (cntourit, 8 Nov 2026: "same format and similar categories"):
+  # Home, Start, Topics, Books, Labs, shown where a site has them. No page moved; every address is unchanged.
   - Home: index.md
   - Start:
       - start.md
@@ -755,4 +757,5 @@ nav:
               - topics/spacetime/level-8/05-the-shapiro-delay.md
               - topics/spacetime/level-8/06-a-clock-for-mars.md
   # topics: end
-  - Simulators: sims.md
+  - Labs:
+      - Simulators: sims.md
